@@ -250,6 +250,10 @@
     <Content Include="Views\Buku\addBuku.cshtml" />
     <Content Include="Views\Buku\formBuku.cshtml" />
     <Content Include="Views\Shopping\viewCart.cshtml" />
+    <Content Include="Views\Shopping\addCart.cshtml" />
+    <Content Include="Views\Shopping\updateCart.cshtml" />
+    <Content Include="Views\Shopping\checkOut.cshtml" />
+    <Content Include="Views\Shopping\payment.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

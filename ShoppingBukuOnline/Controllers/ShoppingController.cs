@@ -33,5 +33,10 @@ namespace ShoppingBukuOnline.Controllers
         {
             return View();
         }
+
+        public ActionResult payment()
+        {
+            return View();
+        }
     }
 }
