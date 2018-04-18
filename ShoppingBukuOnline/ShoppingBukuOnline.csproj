@@ -249,12 +249,12 @@
     <Content Include="Views\User\addCustomer.cshtml" />
     <Content Include="Views\Buku\addBuku.cshtml" />
     <Content Include="Views\Buku\formBuku.cshtml" />
+    <Content Include="Views\Shopping\viewCart.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Authentication\" />
     <Folder Include="Views\Customer\" />
-    <Folder Include="Views\Shopping\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
