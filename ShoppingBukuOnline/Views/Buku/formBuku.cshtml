@@ -1,0 +1,36 @@
+﻿@model ShoppingBukuOnline.Models.Buku
+@{
+    ViewBag.Title = "Add Buku";
+}
+
+<h2>Buku Registration</h2>
+
+@using (Html.BeginForm("addBuku", "Buku"))
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                @Html.Label("Buku Info")<br />
+                @Html.Label("Buku Name: ") <br />
+                @Html.TextBoxFor(m => m.nameBuku, new { @class = "form-control", placeholder = "Buku Name" }) <br />
+
+                @Html.Label("Type Buku: ") <br />
+                @Html.TextBoxFor(m => m.typeBuku, new { @class = "form-control", placeholder = "Type Buku" }) <br />
+
+                @Html.Label("Price Buku: ") <br />
+                @Html.TextBoxFor(m => m.priceBuku, new { @class = "form-control", placeholder = "Price Buku" }) <br />
+
+            </div>
+
+            <div class="col-lg-6">
+                <br /><br />
+                @Html.Label("Year Buku: ") <br />
+                @Html.TextBoxFor(m => m.yearBuku, new { @class = "form-control", placeholder = "Year Buku" }) <br />
+                @Html.Label("Quantity Buku: ") <br />
+                @Html.TextBoxFor(m => m.quantityBuku, new { @class = "form-control", placeholder = "Quantity Buku" }) <br />
+
+                <button class="btn btn-success" type="submit">Submit</button>
+            </div>
+        </div>
+    </div>
+}

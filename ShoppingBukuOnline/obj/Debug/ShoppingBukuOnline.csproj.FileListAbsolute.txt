@@ -1,0 +1,209 @@
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\csc.exe
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\vbc.exe
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\ShoppingBukuOnline.dll.config
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\ShoppingBukuOnline.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\ShoppingBukuOnline.pdb
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Antlr3.Runtime.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\EntityFramework.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Newtonsoft.Json.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Owin.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Helpers.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Mvc.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Optimization.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Razor.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\WebGrease.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Helpers.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Mvc.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Optimization.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Razor.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Newtonsoft.Json.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\EntityFramework.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.csprojResolveAssemblyReference.cache
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.dll
+C:\Users\Aidid Roslan\Desktop\PT3\Practice\ShoppingBukuOnline\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.pdb
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\csc.exe
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\vbc.exe
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\VBCSCompiler.exe
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\ShoppingBukuOnline.dll.config
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\ShoppingBukuOnline.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\ShoppingBukuOnline.pdb
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Antlr3.Runtime.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\EntityFramework.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\EntityFramework.SqlServer.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Google.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Newtonsoft.Json.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Owin.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Helpers.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Mvc.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Optimization.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Razor.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.Deployment.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.Razor.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\WebGrease.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Helpers.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Mvc.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Optimization.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.Razor.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.Deployment.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\System.Web.WebPages.Razor.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Antlr3.Runtime.pdb
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Newtonsoft.Json.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\EntityFramework.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\EntityFramework.SqlServer.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Google.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.csprojResolveAssemblyReference.cache
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.dll
+D:\PT3 - Aidid\ShoppingBukuOnline\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.pdb
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\csc.exe
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\vbc.exe
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\ShoppingBukuOnline.dll.config
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\ShoppingBukuOnline.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\ShoppingBukuOnline.pdb
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Antlr3.Runtime.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\EntityFramework.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Newtonsoft.Json.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Owin.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.Helpers.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.Mvc.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.Optimization.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.Razor.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.WebPages.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.WebPages.Razor.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\WebGrease.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.Helpers.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.Mvc.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.Optimization.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.Razor.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.WebPages.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\System.Web.WebPages.Razor.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Antlr3.Runtime.pdb
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Newtonsoft.Json.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\EntityFramework.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.csprojResolveAssemblyReference.cache
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.csproj.CoreCompileInputs.cache
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.csproj.CopyComplete
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.dll
+C:\Users\hdilh\Downloads\ShoppingBukuOnline-cd185a2918073cda80c3021538c0af90c4ff06d4\ShoppingBukuOnline\obj\Debug\ShoppingBukuOnline.pdb

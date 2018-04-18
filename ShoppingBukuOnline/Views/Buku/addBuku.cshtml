@@ -1,0 +1,22 @@
+﻿@model ShoppingBukuOnline.Models.Buku
+@{
+    ViewBag.Title = "Buku Information";
+}
+
+<h2>Buku Information</h2>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <h4>Customer Info</h4>
+            <b>Name Buku: </b>@Model.nameBuku<br />
+            <b>Type Buku: </b>@Model.typeBuku<br />
+            <b>Price Buku: </b>@Model.priceBuku<br />
+
+        </div>
+
+        <div class="col-lg-6">
+            <b>Year Buku: </b>@Model.yearBuku<br />
+            <b>Quantity Buku: </b>@Model.quantityBuku<br />
+        </div>
+    </div>
+</div>

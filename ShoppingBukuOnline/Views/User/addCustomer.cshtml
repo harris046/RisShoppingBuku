@@ -1,0 +1,26 @@
+﻿@model ShoppingBukuOnline.ViewModels.UserCustomer
+@{
+    ViewBag.Title = "Customer Information";
+}
+
+<h2>Customer Information</h2>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <h4>Customer Info</h4>
+            <b>Full Name: </b>@Model.Customer.name<br />
+            <b>Email: </b>@Model.User.email<br />
+            <b>Phone: </b>@Model.Customer.phone<br />
+
+        </div>
+
+        <div class="col-lg-6">
+            <h4>Address</h4>
+            <b>Address: </b>@Model.Customer.address<br />
+            <b>City: </b>@Model.Customer.city<br />
+            <b>State: </b>@Model.Customer.state<br />
+            <b>Postcode: </b>@Model.Customer.postcode<br />
+        </div>
+    </div>
+</div>
+

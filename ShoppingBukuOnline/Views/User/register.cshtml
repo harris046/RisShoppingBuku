@@ -1,0 +1,54 @@
+﻿@model ShoppingBukuOnline.ViewModels.UserCustomer
+@{
+    ViewBag.Title = "Customer Registration";
+}
+
+<h2>Customer Registration</h2>
+
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/jquery.validate.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.js"></script>
+<script src="~/Scripts/bootstrap.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+
+
+@using (Html.BeginForm("addCustomer", "User"))
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                @Html.Label("Customer Info")<br />
+                @Html.Label("Email: ") <br />
+                @Html.TextBoxFor(m => m.User.email, new { @class = "form-control", placeholder = "Email", Type="email" }) <br />
+                @Html.ValidationMessageFor(m => m.User.email)
+
+                @Html.Label("Passwod: ") <br />
+                @Html.TextBoxFor(m => m.User.password, new { @class = "form-control", placeholder = "Password", Type = "password" }) <br />
+                @Html.ValidationMessageFor(m => m.User.password)
+
+                @Html.Label("Full Name: ") <br />
+                @Html.TextBoxFor(m => m.Customer.name, new { @class = "form-control", placeholder = "Full Name" }) <br />
+                @Html.ValidationMessageFor(m => m.Customer.name)
+                @Html.Label("Phone No: ") <br />
+                @Html.TextBoxFor(m => m.Customer.phone, new { @class = "form-control", placeholder = "Phone No" }) <br />
+                @Html.ValidationMessageFor(m => m.Customer.phone)
+               
+            </div>
+
+            <div class="col-lg-6">
+                <br /><br />
+                @Html.Label("Address: ") <br />
+                @Html.TextBoxFor(m => m.Customer.address, new { @class = "form-control", placeholder = "Addres" }) <br />
+                @Html.Label("City: ") <br />
+                @Html.TextBoxFor(m => m.Customer.city, new { @class = "form-control", placeholder = "City" }) <br />
+                @Html.Label("State: ") <br />
+                @Html.TextBoxFor(m => m.Customer.state, new { @class = "form-control", placeholder = "State" }) <br />
+                @Html.Label("Postcode: ") <br />
+                @Html.TextBoxFor(m => m.Customer.postcode, new { @class = "form-control", placeholder = "Postcode" }) <br />
+                <br />
+                <button class="btn btn-success" type="submit">Submit</button>
+                </div>
+        </div>
+    </div>
+}
+
